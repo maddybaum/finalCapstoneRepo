@@ -1,0 +1,59 @@
+
+body{
+   background-color: #4F6D7A;
+
+}
+#mainFormContainer{
+    background-color: #DBE9EE;
+    width: 50%;
+    height: 800px;
+    font-family: 'Montserrat';
+    border-radius: 10%;
+    text-align: left;
+    margin: auto;
+}
+
+#mainFormContainer button{
+    -ms-transform: translate(-100%, -50%);
+    transform: translate(-100%, -50%);
+    background-color: #166088;
+    margin-right: 50%;
+    margin: auto;
+    float: right;
+}
+
+button{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+div{
+    padding: 0.3%;
+}
+
+#addStudentName{
+    text-align: center;
+    margin-left: 47%;
+}
+
+.frequencyInput{
+    width: 13%;
+}
+
+
+
+/*tbody{*/
+/*    margin-left: 5%;*/
+/*}*/
+
+.form-check-label{
+    margin-left: 5%;
+}
+
+#studentCourses{
+    margin-left: 5%;
+    width: 70%;
+}
